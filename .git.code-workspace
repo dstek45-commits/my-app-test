@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": ".github"
+		},
+		{
+			"path": ".idea"
+		},
+		{
+			"path": ".settings"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "all"
+		},
+		{
+			"path": "core"
+		},
+		{
+			"path": "dispatcher"
+		},
+		{
+			"path": "it.tests"
+		},
+		{
+			"path": "tic-tac-toe"
+		},
+		{
+			"path": "ui.apps"
+		},
+		{
+			"path": "ui.apps.structure"
+		},
+		{
+			"path": "ui.config"
+		},
+		{
+			"path": "ui.content"
+		},
+		{
+			"path": "ui.frontend"
+		},
+		{
+			"path": "ui.tests"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
